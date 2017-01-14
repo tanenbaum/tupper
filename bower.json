@@ -1,0 +1,13 @@
+{
+  "name": "tupper",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Joe Shaw <joe.r.shaw@gmail.com>"
+  ],
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "fabric.js": "fabric#^1.7.3"
+  }
+}

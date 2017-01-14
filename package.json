@@ -1,0 +1,13 @@
+{
+  "name": "tupper",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "http-server ./public"
+  },
+  "author": "Joe Shaw <joe.r.shaw@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
