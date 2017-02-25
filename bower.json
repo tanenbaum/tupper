@@ -9,6 +9,7 @@
   "private": true,
   "dependencies": {
     "fabric.js": "fabric#^1.7.3",
-    "big-integer": "^1.6.17"
+    "big-integer": "^1.6.17",
+    "lodash": "^4.17.4"
   }
 }
