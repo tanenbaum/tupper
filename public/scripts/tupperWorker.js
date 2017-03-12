@@ -17,7 +17,7 @@ function runTupper(config) {
 	const width = config.width;
 
 	// strip spaces from incoming k value - it's large
-	const kInt = bigInt(config.k.replace(/ /g,''));
+	let kInt = bigInt(config.k.replace(/ /g,''));
 
 	// post render points back to host
 	let postBack = function (points) {
